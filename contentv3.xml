@@ -772,7 +772,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;singleChoice
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="4"></reference>
+  <reference key="8"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
